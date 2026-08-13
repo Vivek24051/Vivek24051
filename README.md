@@ -4,7 +4,7 @@
 
 I'm a Full-Stack Developer with 3+ years of experience shipping production web applications end-to-end — from architecture and API design to deployment and performance tuning. I enjoy working across the entire stack: designing REST APIs and database schemas, building responsive UIs, integrating third-party services, and deploying applications to the cloud.
 
-I started as a Software Development Intern and was promoted to Full-Stack Developer within 3 months — driven by ownership and delivery quality. Since then I've owned end-to-end delivery on multiple client projects and shipped a few things solo, including a 5-module employer management platform used by real users.
+I started as a Software Development Intern and was promoted to Full-Stack Developer within 3 months — driven by ownership and delivery quality. Since then I've owned end-to-end delivery on multiple client projects, taking systems from architecture decisions through to production, with a track record of measurable performance improvements along the way.
 
 ---
 
